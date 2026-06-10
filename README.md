@@ -1,2 +1,4 @@
-# nordseecraft
-Minecraft Server Nordseecraft
+# German Word Filter List
+## Deutsches Wortfilter Lexikon
+
+
